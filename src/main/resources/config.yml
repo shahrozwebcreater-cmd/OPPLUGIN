@@ -1,0 +1,17 @@
+crate:
+  title: "&5&lOP CRATE"
+  key-name: "&d&lOP CRATE KEY"
+  key-lore:
+    - "&7Right-click an OP Crate"
+    - "&7to receive a powerful reward!"
+  animation-ticks: 35
+
+items:
+  saber-name: "&c&lVOID SABER"
+  saber-lore:
+    - "&7A custom OP weapon."
+    - "&8Ability: &dVoid Strike"
+  helmet-name: "&5&lVOID HELM"
+  chest-name: "&5&lVOID CHESTPLATE"
+  legs-name: "&5&lVOID LEGGINGS"
+  boots-name: "&5&lVOID BOOTS"

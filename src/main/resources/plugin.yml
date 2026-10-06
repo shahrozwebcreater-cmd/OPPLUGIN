@@ -1,0 +1,19 @@
+name: OPCratesWorks
+version: 1.0.0
+main: com.opcratesworks.OPCratesWorks
+api-version: '1.21'
+author: Custom
+description: Custom OP crates, keys, sabers and armor.
+
+commands:
+  opcrates:
+    description: Main OPCratesWorks command
+    usage: /opcrates <help|givekey|crate|saber|armor|reload>
+    aliases: [opc]
+    permission: opcrates.admin
+
+permissions:
+  opcrates.admin:
+    default: op
+  opcrates.use:
+    default: true

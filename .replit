@@ -1,0 +1,4 @@
+run = "mvn clean package"
+
+[deployment]
+run = ["mvn", "clean", "package"]

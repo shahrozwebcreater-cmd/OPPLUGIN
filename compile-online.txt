@@ -1,0 +1,11 @@
+ONLINE BUILD COMMAND:
+mvn clean package
+
+OUTPUT:
+target/opcrates-works-1.0.0.jar
+
+JAVA:
+21
+
+SERVER:
+Paper 1.21.1
